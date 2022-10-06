@@ -1,5 +1,5 @@
 {
-  "meta": { "theme": "elegant" },
+  "meta": { "theme": "caffeine" },
   "basics": {
     "name": "Austin L. Moody",
     "label": "Software Engineer",
@@ -24,6 +24,7 @@
   "work": [
     {
       "name": "PointClickCare",
+      "company": "PointClickCare",
       "position": "Solutions Architect, Audacious Inquiry",
       "website": "https://ainq.com",
       "startDate": "2016-12-01",
@@ -33,7 +34,7 @@
       "The \"Special Projects\" guy - Hard to solve problems that do not fit neatly onto a specific team.  I love them.",
       "Experience building connectivity and tools against man MDM/MPI systems including: Nextgate, Initiate, and Verato.",
       "I hate doing anyting twice.  Automate it.",
-      "Fake data generating, fun for the whole family. Quit tweaking that HL7 ADT in Notepad++ people get creative.",
+      "Fake data generating, fun for the whole family. Quit tweaking that HL7 ADT in Notepad++ people get creative. As in...",
       "- https://github.com/austinmoody/healthcare_phony",
       "- https://github.com/austinmoody/adtgenerator",
       "- https://github.com/austinmoody/Mockaroo834X12",
@@ -45,6 +46,7 @@
     },
     {
       "name": "Cerner",
+      "company": "Cerner",
       "position": "Software Architect, MobileMD",
       "website": "http://cerner.com",
       "startDate": "2013-05-01",
@@ -58,6 +60,7 @@
     },
     {
       "name": "GE Healthcare / Caradigm",
+      "company": "GE Healthcare / Caradigm",
       "position": "Senior Lead Technical Services Engineer",
       "website": "http://www.caradigm.com",
       "startDate": "2011-01-01",
@@ -77,6 +80,7 @@
     },
     {
       "name": "Lucentglow",
+      "company": "Lucentglow",
       "position": "Developer & Consultant",
       "website": "http://www.lucentglow.com",
       "startDate": "2009-03-01",
@@ -94,6 +98,7 @@
     },
     {
       "name": "MedAlliance Management Group, Inc.",
+      "company": "MedAlliance Management Group, Inc.",
       "position": "Information Systems Manager & Developer",
       "website": "http://www.medalliance.md",
       "startDate": "2003-08-01",
@@ -109,6 +114,7 @@
     },
     {
       "name": "IDX Systems Corporation",
+      "company": "IDX Systems Corporation",
       "position": "EDI Implementation Engineer",
       "website": "",
       "startDate": "2001-09-01",
@@ -123,6 +129,7 @@
     },
     {
       "name": "MedAlliance Management Group, Inc.",
+      "company": "MedAlliance Management Group, Inc.",
       "position": "Developer",
       "website": "http://www.medalliance.md",
       "startDate": "1999-01-01",
@@ -132,6 +139,7 @@
     },
     {
       "name": "Oconee Memorial Hospital",
+      "company": "Oconee Memorial Hospital",
       "position": "Systems Analyst",
       "website": "http://www.oconeemed.org/",
       "startDate": "1994-08-01",
@@ -165,7 +173,7 @@
   "skills": [
     {
       "name": "Interface Engines",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "Mirth Connect",
         "Corepoint",
@@ -183,7 +191,7 @@
       ]
     },
     {
-      "name": "Programming/Scripting Languages",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "Ruby",
