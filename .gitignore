@@ -1,4 +1,5 @@
 package.json
 package-lock.json
 resume/node_modules/*
+resume/public/*
 .DS_Store
