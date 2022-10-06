@@ -15,19 +15,36 @@
       "countryCode": "US",
       "region": "Tennessee"
     },
-    "profiles": []
+    "profiles": [{
+      "network": "Github",
+      "username": "austinmoody",
+      "url": "https://github.com/austinmoody"
+    }]
   },
   "work": [
     {
-      "company": "Audacious Inquiry",
-      "position": "Solutions Architect",
+      "name": "PointClickCare",
+      "position": "Solutions Architect, Audacious Inquiry",
       "website": "https://ainq.com",
       "startDate": "2016-12-01",
-      "summary": "I help our clients determine the most effective way to improve care delivery via our care coordination platform.",
-      "highlights": []
+      "summary": "I find the most effective way for our clients to improve care delivery using our platform.",
+      "highlights": ["The boring description is: I find the most effective way for our clients to improve care delivery using our platform.",
+      "The longer description is: I find ways to make things work when others say they shouldn't.  Got a system that has uneasy-to-get-at data?  Let me at it.  Need to send data to an unfamiliar REST or SOAP api that has you in knots?  I got you.",
+      "The \"Special Projects\" guy - Hard to solve problems that do not fit neatly onto a specific team.  I love them.",
+      "Experience building connectivity and tools against man MDM/MPI systems including: Nextgate, Initiate, and Verato.",
+      "I hate doing anyting twice.  Automate it.",
+      "Fake data generating, fun for the whole family. Quit tweaking that HL7 ADT in Notepad++ people get creative.",
+      "- https://github.com/austinmoody/healthcare_phony",
+      "- https://github.com/austinmoody/adtgenerator",
+      "- https://github.com/austinmoody/Mockaroo834X12",
+      "- https://github.com/austinmoody/mockaroo2hl7v2",
+      "Formats don't scare me.  HL7, CCDA, X12... I like all flavors.",
+      "Mirth can be one of the most enjoyable tools to use.  Give me all the weird channels to build.  Experience creating just about anything you can think of. Including custom Java libraries used by channels."
+      ]
+    
     },
     {
-      "company": "Cerner",
+      "name": "Cerner",
       "position": "Software Architect, MobileMD",
       "website": "http://cerner.com",
       "startDate": "2013-05-01",
@@ -40,7 +57,7 @@
 			]
     },
     {
-      "company": "GE Healthcare / Caradigm",
+      "name": "GE Healthcare / Caradigm",
       "position": "Senior Lead Technical Services Engineer",
       "website": "http://www.caradigm.com",
       "startDate": "2011-01-01",
@@ -59,7 +76,7 @@
       ]
     },
     {
-      "company": "Lucentglow",
+      "name": "Lucentglow",
       "position": "Developer & Consultant",
       "website": "http://www.lucentglow.com",
       "startDate": "2009-03-01",
@@ -76,7 +93,7 @@
       ]
     },
     {
-      "company": "MedAlliance Management Group, Inc.",
+      "name": "MedAlliance Management Group, Inc.",
       "position": "Information Systems Manager & Developer",
       "website": "http://www.medalliance.md",
       "startDate": "2003-08-01",
@@ -91,7 +108,7 @@
       ]
     },
     {
-      "company": "IDX Systems Corporation",
+      "name": "IDX Systems Corporation",
       "position": "EDI Implementation Engineer",
       "website": "",
       "startDate": "2001-09-01",
@@ -105,7 +122,7 @@
       ]
     },
     {
-      "company": "MedAlliance Management Group, Inc.",
+      "name": "MedAlliance Management Group, Inc.",
       "position": "Developer",
       "website": "http://www.medalliance.md",
       "startDate": "1999-01-01",
@@ -114,7 +131,7 @@
       "highlights": []
     },
     {
-      "company": "Oconee Memorial Hospital",
+      "name": "Oconee Memorial Hospital",
       "position": "Systems Analyst",
       "website": "http://www.oconeemed.org/",
       "startDate": "1994-08-01",
