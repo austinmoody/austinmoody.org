@@ -1,8 +1,10 @@
 {
-  "meta": { "theme": "caffeine" },
+  "meta": {
+    "theme": "caffeine"
+  },
   "basics": {
     "name": "Austin L. Moody",
-    "label": "Software Engineer",
+    "label": "Solutions & Software Architect / Developer / Fixer Of Problems",
     "picture": "",
     "email": "austinmoody@protonmail.com",
     "phone": "(423) 741-2128",
@@ -15,11 +17,13 @@
       "countryCode": "US",
       "region": "Tennessee"
     },
-    "profiles": [{
-      "network": "Github",
-      "username": "austinmoody",
-      "url": "https://github.com/austinmoody"
-    }]
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "austinmoody",
+        "url": "https://github.com/austinmoody"
+      }
+    ]
   },
   "work": [
     {
@@ -29,21 +33,21 @@
       "website": "https://ainq.com",
       "startDate": "2016-12-01",
       "summary": "I find the most effective way for our clients to improve care delivery using our platform.",
-      "highlights": ["The boring description is: I find the most effective way for our clients to improve care delivery using our platform.",
-      "The longer description is: I find ways to make things work when others say they shouldn't.  Got a system that has uneasy-to-get-at data?  Let me at it.  Need to send data to an unfamiliar REST or SOAP api that has you in knots?  I got you.",
-      "The \"Special Projects\" guy - Hard to solve problems that do not fit neatly onto a specific team.  I love them.",
-      "Experience building connectivity and tools against man MDM/MPI systems including: Nextgate, Initiate, and Verato.",
-      "I hate doing anyting twice.  Automate it.",
-      "Fake data generating, fun for the whole family. Quit tweaking that HL7 ADT in Notepad++ people get creative. As in...",
-      "- https://github.com/austinmoody/healthcare_phony",
-      "- https://github.com/austinmoody/adtgenerator",
-      "- https://github.com/austinmoody/Mockaroo834X12",
-      "- https://github.com/austinmoody/mockaroo2hl7v2",
-      "Formats don't scare me.  HL7, CCDA, X12... I like all flavors.",
-      "Mirth can be one of the most enjoyable tools to use.  Give me all the weird channels to build.  Experience creating just about anything you can think of. Including custom Java libraries used by channels.",
-      "Wrote several tools using C# and AWS resources such as DynamoDB, DocumentDB, Secrets, Elasticache, Lambda."
+      "highlights": [
+        "The boring description is: I find the most effective way for our clients to improve care delivery using our platform.",
+        "The longer description is: I find ways to make things work when others say they shouldn't.  Got a system that has uneasy-to-get-at data?  Let me at it.  Need to send data to an unfamiliar REST or SOAP api that has you in knots?  I got you.",
+        "The \"Special Projects\" guy - Hard to solve problems that do not fit neatly onto a specific team.  I love them.",
+        "Experience building connectivity and tools against man MDM/MPI systems including: Nextgate, Initiate, and Verato.",
+        "I hate doing anyting twice.  Automate it.",
+        "Fake data generating, fun for the whole family. Quit tweaking that HL7 ADT in Notepad++ people get creative. As in...",
+        "- https://github.com/austinmoody/healthcare_phony",
+        "- https://github.com/austinmoody/adtgenerator",
+        "- https://github.com/austinmoody/Mockaroo834X12",
+        "- https://github.com/austinmoody/mockaroo2hl7v2",
+        "Formats don't scare me.  HL7, CCDA, X12... I like all flavors.",
+        "Mirth can be one of the most enjoyable tools to use.  Give me all the weird channels to build.  Experience creating just about anything you can think of. Including custom Java libraries used by channels.",
+        "Wrote several tools using C# and AWS resources such as DynamoDB, DocumentDB, Secrets, Elasticache, Lambda."
       ]
-    
     },
     {
       "name": "Cerner",
@@ -54,10 +58,10 @@
       "endDate": "2016-12-01",
       "summary": "Special Projects team member for the MobileMD HIE product.",
       "highlights": [
-				"Developed internal tools to increase team productivity.  Including an application to execute regression tests and compare HL7 data output.",
-				"You never want things to go wrong.  But when they do, I come in to figure out what happened, correct the issue, do data remediation, and work to make sure it doesn't happen again.",
+        "Developed internal tools to increase team productivity.  Including an application to execute regression tests and compare HL7 data output.",
+        "You never want things to go wrong.  But when they do, I come in to figure out what happened, correct the issue, do data remediation, and work to make sure it doesn't happen again.",
         "Started with Siemens HS which was aquired by Cerner Corporation effective February 2015."
-			]
+      ]
     },
     {
       "name": "GE Healthcare / Caradigm",
@@ -183,12 +187,12 @@
       ]
     },
     {
-      "name": "Web",
+      "name": "EMPI Systems",
       "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+        "Nextgate",
+        "Initiate",
+        "Verato"
       ]
     },
     {
@@ -197,6 +201,7 @@
       "keywords": [
         "Ruby",
         "C#",
+        "Go",
         "Perl",
         "JavaScript",
         "Python",
@@ -206,12 +211,38 @@
       ]
     },
     {
+      "name": "Web",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Interfaced With",
+      "level": "",
+      "keywords": [
+        "EPIC",
+        "Allscripts Enterprise",
+        "Nextgen",
+        "eClinicalWorks",
+        "Meditech",
+        "CPSI",
+        "Sage",
+        "Cerner",
+        "GE Centricity EMR"
+      ]
+    },
+    {
       "name": "Healthcare Systems",
       "level": "",
       "keywords": [
-        "Vast experience with Allscripts Enterprise, Medinformatix, and GE Centricity Practice (formally Groupcast)",
-        "Experience with Harvest Orchard and Labdaq systems",
-        "Have interfaced with Allscripts Enterprise, Nextgen, eClinicalWorks, GE Centricity EMR, Meditech, Sage, and Cerner"
+        "Allscripts Enterprise",
+        "Medinformatix",
+        "GE Centricity Practice (formally Groupcast)",
+        "Harvest Orchard",
+        "Labdaq systems"
       ]
     }
   ],
