@@ -1,7 +1,7 @@
 {
   "resourceType": "StructureDefinition",
   "id": "resume-work-experience",
-  "url": "https://austinmoody.org/workExperience",
+  "url": "https://austinmoody.org/workExperience.json",
   "version": "1.0.0",
   "name": "ResumeWorkExperience",
   "title": "Resume Work Experience Extension",
